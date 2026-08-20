@@ -6,11 +6,17 @@ I like building things from the ground up — from low-level C++ servers and gam
 
  Currently working with:
 • C/C++ — sockets, epoll, networking, system design
+
 • Python — FastAPI, AI/ML pipelines
+
 • JavaScript/TypeScript — Node.js, Express, React
+
 • Databases — PostgreSQL, MongoDB, Redis
-• AI — Local LLMs, RAG, embeddings, LLM-powered applications
-• Graphics/Game Dev — SDL2, OpenGL
+
+• Local LLMs, RAG, embeddings, LLM-powered applications
+
+• Graphics && Game Dev — SDL2, OpenGL
+
 • Linux — Neovim, WSL, system programming
 
 Things I've built && explored:
