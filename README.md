@@ -1,6 +1,3 @@
-# GitHub Bio
-
-```text
 Hey,Pratyush Chowdhury this side 👋 
 
 Wannabe Backend & Systems Developer & AI/ML Explorer
@@ -47,4 +44,3 @@ Always interested in interesting projects, open source, hackathons, and collabor
 "Build it. Break it. Understand it. Build it better."
 
 Bye Bye 👋
-```
