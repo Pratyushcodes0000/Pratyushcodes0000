@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Pratyushcodes0000's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 Hey,Pratyush Chowdhury this side 👋 
 
 Wannabe Backend & Systems Developer & AI/ML Explorer
